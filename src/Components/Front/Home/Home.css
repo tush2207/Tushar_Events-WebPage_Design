@@ -1,0 +1,23 @@
+.home-head{
+    width:85%;
+    font-size: 2rem;
+    text-align: center;
+    margin-left: 80px;
+    padding: 10px;
+
+
+    font-family: 'Festive', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Tangerine', cursive;
+    color: rgb(3, 0, 2);
+
+   
+
+}
+.home-img{
+    margin-left: 13px;
+    margin-bottom: 50px;
+    border-radius: 25px;
+    border: black 10px  solid;
+}

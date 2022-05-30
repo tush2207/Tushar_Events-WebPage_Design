@@ -1,0 +1,55 @@
+.Card{
+    background-color: rgb(245, 239, 239);
+    border: 2px solid black;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 30%;
+    height: 35;
+    margin-bottom:50px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-right: 15px;
+    padding-bottom: 15px;
+    
+    
+  
+  }
+  .Card:hover{
+    transform:scale(1.02);
+    background-color: rgb(92, 233, 49);
+  }
+
+  .img{
+    width: 95%;
+    height:230px;
+    align-items: center;   
+    display: block;
+    object-fit: cover;
+    margin-left: 8px;
+    margin-top: 5px;
+    border-radius: 8px;
+    border: 2px solid black;
+  
+  }
+  .desc{
+    width: 95%;
+    height:110px;
+    margin-left: 10px;
+    /* margin-right: 10px; */
+  }
+  .Addtocart{
+      width: 90%;
+
+  }
+
+  .Addtocart:hover{
+      font-size: large;
+  }
+  .product {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right: 5px;
+    flex-wrap: wrap;
+  }
+  
